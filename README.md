@@ -1,3 +1,6 @@
+**Live API:** https://job-market-ml-api-production.up.railway.app
+**Interactive docs:** https://job-market-ml-api-production.up.railway.app/docs
+
 # Job Market Category Predictor API
 
 A FastAPI service that predicts a job's category (data analyst, data scientist, data engineer, etc.) from its title and description, using a model trained on real job market data from the job-market-tracker and job-market-sql projects. Fourth and final project in a portfolio pipeline series.
